@@ -1,0 +1,2 @@
+# binance
+tea testnet
